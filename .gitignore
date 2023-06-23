@@ -1,3 +1,4 @@
 .env
 credentials
 **/data_export
+studies/core

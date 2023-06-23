@@ -1,1 +1,1 @@
-cumulus-library
+cumulus-library >=0.3.1
